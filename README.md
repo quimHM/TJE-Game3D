@@ -1,12 +1,13 @@
-#TJE Second Project - 3D Game
-Berta Benet and Quim de las Heras
+# TJE Second Project - 3D Game
+Berta Benet and Quim De Las Heras
+
 berta.benet01@estudiant.upf.edu and quim.delasheras01@estudiant.upf.edu
 __________________
 
 ## Video
 Gameplay showcase available at:
 
-[![](https://img.youtube.com/vi/p2JNHPlqRx4/hqdefault.jpg)](
+[![](https://img.youtube.com/vi/p2JNHPlqRx4/0.jpg)](
 https://www.youtube.com/watch?v=p2JNHPlqRx4 )
 
 ## Sinopsis
